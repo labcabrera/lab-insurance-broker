@@ -1,0 +1,7 @@
+= Broker module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Módulo de integración con brokers del proyecto {linkLabInsurance}[lab-insurance].
